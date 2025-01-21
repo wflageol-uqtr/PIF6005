@@ -6,6 +6,6 @@
 - Chapitre 4
 
 ## Travaux
-- [Travail 1](https://classroom.github.com/a/weZrCBqM)
+- [Travail 1](https://classroom.github.com/a/weZrCBqM) (Date de remise : 27 janvier 2025)
 - Travail 2
 - Travail 3
