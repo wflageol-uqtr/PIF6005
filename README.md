@@ -2,7 +2,7 @@
 
 - [Chapitre 1](https://github.com/wflageol-uqtr/PIF6005/blob/main/chapitre1.md)
 - [Chapitre 2](https://github.com/wflageol-uqtr/PIF6005/blob/main/chapitre2.md)
-- Chapitre 3
+- [Chapitre 3](https://github.com/wflageol-uqtr/PIF6005/blob/main/chapitre3.md)
 - Chapitre 4
 
 ## Travaux
