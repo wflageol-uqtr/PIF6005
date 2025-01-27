@@ -7,5 +7,5 @@
 
 ## Travaux
 - [Travail 1](https://classroom.github.com/a/weZrCBqM) (Date de remise : 27 janvier 2025)
-- Travail 2
+- [Travail 2](https://classroom.github.com/a/zq6NLvoV) (Date de remise : 10 février 2025)
 - Travail 3
